@@ -17,7 +17,7 @@
 <br>
 <b><i> 5º Passo:</b></i> Vamos nas configurações do roteador para configurar os endereços para poder ativar a conexão das redes.
 ![topo 5](https://user-images.githubusercontent.com/102399570/198501154-cf79dc66-323c-43f9-9469-36cf142f422b.png)
-
+<br>
 Feito tudo isso só fechar as janelas da configuração e você irá observar que está tudo verde, isso significa que tudo esta funcionando e basta fazer o teste de conexão.
 ![topofinal](https://user-images.githubusercontent.com/102399570/198501509-19626940-daec-4d5e-8c2e-efaf47a9aefd.png)
 
